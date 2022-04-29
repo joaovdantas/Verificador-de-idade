@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(56, 68, 233, 0.548);
+    font: normal 15pt sans-serif;
+}
+
+header {
+    color: #eee;
+    text-align: center;
+}
+
+section {
+    width: 500px;
+    background-color: #eee;
+    padding: 15px;
+    border-radius: 10px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5px;
+}
+ 
+footer a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
+    font-style: italic;
+}
+
+footer a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
